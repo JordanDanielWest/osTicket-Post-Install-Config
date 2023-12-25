@@ -42,6 +42,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ![image](https://github.com/JordanDanielWest/osTicket-Post-Install-Config/assets/96628562/62a09a8e-ce23-4a21-9ae9-f38f84cac66f)
 
+- Name: Supreme Admin
+- Permissions: Select all ticket features and tasks
+- Click Add Role
+
 
 </p>
 <p>
