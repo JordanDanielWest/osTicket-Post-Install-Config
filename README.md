@@ -46,10 +46,18 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Permissions: Select all ticket features and tasks
 - Click Add Role
 
-
+<h3>Configure Departments</h3>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  
+- Under Agent Tab select Departments
+- Add New Department
+- Name: System Administrators
+- Add Department
+
+<h3>Configure Teams</h3>
+
+  
 </p>
 <br />
 
