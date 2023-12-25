@@ -57,6 +57,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>Configure Teams</h3>
 
+- Under Agent Tab select Teams
+- Add New Team
+- Name: Level II Support
+- Create Team
+
   
 </p>
 <br />
