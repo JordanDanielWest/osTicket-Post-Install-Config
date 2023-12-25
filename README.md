@@ -62,6 +62,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Name: Level II Support
 - Create Team
 
+<h3>Allow anyone to create tickets</h3>
+
+- Under the Setting Tab select Users
+- Ensure "Require registration and login to create tickets" box is not checked
+
+<h3>Configure Agents</h3>
+
+- Under the Agents tab select Agents
+- Add New Agent
   
 </p>
 <br />
