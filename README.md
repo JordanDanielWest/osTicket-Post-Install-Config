@@ -34,6 +34,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>
 - Switch to Admin Panel
+  
 ![image](https://github.com/JordanDanielWest/osTicket-Post-Install-Config/assets/96628562/4d3c02ca-88a0-4637-9a59-9454104fd7c5)
 
 </p>
