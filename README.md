@@ -37,9 +37,11 @@ This tutorial outlines the post-install configuration of the open-source help de
   
 ![image](https://github.com/JordanDanielWest/osTicket-Post-Install-Config/assets/96628562/4d3c02ca-88a0-4637-9a59-9454104fd7c5)
 
-</p>
-<br />
-[image](https://github.com/JordanDanielWest/osTicket-Post-Install-Config/assets/96628562/bc48c87d-20f0-4dd0-aba4-d4c36fa6d55e)
+- Under the Agents tab select Roles
+- Add New Role
+
+![image](https://github.com/JordanDanielWest/osTicket-Post-Install-Config/assets/96628562/62a09a8e-ce23-4a21-9ae9-f38f84cac66f)
+
 
 </p>
 <p>
