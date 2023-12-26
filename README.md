@@ -68,10 +68,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Ensure "Require registration and login to create tickets" box is not checked
 
 <h3>Configure Agents</h3>
-
+<h4>Jane Doe the System Administrator</h4>
 - Under the Agents tab select Agents
 - Add New Agent
 - Name: Jane Doe
+- Email Address: jane.doe@helpdesk.com
 - Username: Jane
 - Select Access Tab
 - Primary Department: System Administrators
