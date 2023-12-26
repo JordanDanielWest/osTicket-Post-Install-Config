@@ -71,6 +71,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Under the Agents tab select Agents
 - Add New Agent
+- Name: Jane Doe
+- Username: Jane
+- Select Access Tab
+- Primary Department: System Administrators
+- All Access
+- Exteneded Access: Support
+- Create
   
 </p>
 <br />
