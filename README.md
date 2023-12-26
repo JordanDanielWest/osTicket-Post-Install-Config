@@ -75,6 +75,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Name: Jane Doe
 - Email Address: jane.doe@helpdesk.com
 - Username: Jane
+- Set Password
 - Select Access Tab
 - Primary Department: System Administrators
 - Supreme Admin
@@ -87,6 +88,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Add New Agent
 - Name: John Doe
 - john.doe@helpdesk.com
+- Username: John
+- Set Password
 - Primary Department: Support
 - All Access
 - Create
