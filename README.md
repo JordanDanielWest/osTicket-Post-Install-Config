@@ -98,18 +98,23 @@ In osTicket users are associated with their email address in the User Directory 
 - Select Agent Panel at the top of the screen
 
 ![image](https://github.com/JordanDanielWest/osTicket-Post-Install-Config/assets/96628562/4ebf6623-7cf5-4942-a232-0e6e9d9c9303)
-- 
+- Users Tab
+- Add User
+- Fillout Email Address and Full name in order to create a new user
+
+<h3>Configure SLA</h3>
+
+SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed.
+
+- Select Admin Panel at top of the page
+- Manage Tab
+- SLA
+- Fillout Name
+- Fillout Grace Period
+- Select Schedule
+- Add Plan
+ 
 
 
-- 
 
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
