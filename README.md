@@ -77,10 +77,32 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Username: Jane
 - Select Access Tab
 - Primary Department: System Administrators
-- All Access
+- Supreme Admin
 - Exteneded Access: Support
 - Create
-  
+
+<h4>John Doe Helpdesk Tech</h4>
+
+- Under the Agents tab select Agents
+- Add New Agent
+- Name: John Doe
+- john.doe@helpdesk.com
+- Primary Department: Support
+- All Access
+- Create
+
+<h3>Configure Users(Customers)</h3>
+
+In osTicket users are associated with their email address in the User Directory of the help desk
+
+- Select Agent Panel at the top of the screen
+
+![image](https://github.com/JordanDanielWest/osTicket-Post-Install-Config/assets/96628562/4ebf6623-7cf5-4942-a232-0e6e9d9c9303)
+- 
+
+
+- 
+
 </p>
 <br />
 
