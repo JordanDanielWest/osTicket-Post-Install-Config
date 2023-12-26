@@ -79,7 +79,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Select Access Tab
 - Primary Department: System Administrators
 - Supreme Admin
-- Exteneded Access: Support
+- Exteneded Access: Support (Press the Add button, all tickets move through support department)
 - Create
 
 <h4>John Doe Helpdesk Tech</h4>
