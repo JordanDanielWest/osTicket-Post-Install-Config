@@ -78,8 +78,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Set Password
 - Select Access Tab
 - Primary Department: System Administrators
-- Supreme Admin
+- Select Role: Supreme Admin
 - Exteneded Access: Support (Press the Add button, all tickets move through support department)
+- Select Role: Supreme Admin
 - Create
 
 <h4>John Doe Helpdesk Tech</h4>
