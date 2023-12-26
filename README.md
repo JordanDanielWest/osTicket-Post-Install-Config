@@ -69,6 +69,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>Configure Agents</h3>
 <h4>Jane Doe the System Administrator</h4>
+
 - Under the Agents tab select Agents
 - Add New Agent
 - Name: Jane Doe
