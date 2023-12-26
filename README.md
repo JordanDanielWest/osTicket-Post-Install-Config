@@ -109,12 +109,17 @@ SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose of
 - Select Admin Panel at top of the page
 - Manage Tab
 - SLA
+- Add New SLA Plan
 - Fillout Name
 - Fillout Grace Period
 - Select Schedule
 - Add Plan
  
+<h3>Configure Help Topics</h3>
 
-
+- Select Admin Panel
+- Manage Tab
+- Help Topics
+- Add New Help Topic
 
 <br />
